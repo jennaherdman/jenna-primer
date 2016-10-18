@@ -242,7 +242,7 @@ Visualizations are, in my opinion, more important than simple tools for analysis
 * Does Dickens’s style change over the course of his long writing career? 
 * How has literature’s portrayal of a certain construct or theme evolved in terms of the language and structure over time? For example, have the collocates associated with red-haired characters improved since the days of Uriah Heep?
 
-**Reminder:** To see these tools applied to my own research into vampire texts of the nineteenth century, [please follow this link](LINK). Thank you! 
+**Reminder:** To see these tools applied to my own research into vampire texts of the nineteenth century, [please follow this link](http://jennaherdman.github.io/Vampire-project-Vampires-in-Nineteenth-Century-Texts/). Thank you! 
 
 
 
