@@ -2,13 +2,13 @@
 
 ##What is text analysis?
 
-As a student of both English literature and Digital Humanities, one of my core goals has been to develop knowledge of different tools which help these two academic concentrations complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
+As a student of both English literature and Digital Humanities, one of my goals has been to develop knowledge of different tools which help these two academic concentrations complement and enhance one another. Luckily, several tools already exist which offer us the means for a distant-reading approach to texts, allowing us to look at the patterns and differences of several texts at the same time. Some scholars are developing databases which allow you to look at over a million books. 
 
 In this blog, I will introduce you to some useful tools for beginning text analysis, which will serve to break down the practical, housekeeping purposes. I will also delve into the methods of drawing relevant meaning from these tools, and apply them directly to my own research to demonstrate how the tools can diversify and richen classic literary criticism. This last step, the application of the tools to analysis, is very meaningful and something which I have found some tools lack - if we have the data, what are the possibilities of what we can do with it? Can distant-reading text analysis articulate something that traditional means of scholarship does not? 
 
 Not only is this a cool way of approaching literary studies, but it is also a user-friendly way for non-academics to approach literature in dynamic and accessible ways. This approach, in my opinion, is a potential, inclusive future for literature studies, and text analysis and visualization is a way to get there. 
 
-If you would like to read my blog applying these methods to my MRP research on vampire literature, please click here: -linky- 
+If you would like to read my blog applying these methods to my research on vampire literature, [please click here](http://jennaherdman.github.io/Vampire-project-Vampires-in-Nineteenth-Century-Texts/).
 
 Further reading:
 * [The instability of gender](http://tedunderwood.com/2016/01/09/the-instability-of-gender/)
