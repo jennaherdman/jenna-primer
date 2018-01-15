@@ -14,7 +14,7 @@ Further reading:
 * [The instability of gender](http://tedunderwood.com/2016/01/09/the-instability-of-gender/)
 * [A dataset for distant-reading literature in English, 1700-1922](http://tedunderwood.com/2015/08/07/a-dataset-for-distant-reading-literature-in-english-1700-1922/)
 * [A quantitative literary history of 2,958 Nineteenth-Century British Novels](http://litlab.stanford.edu/LiteraryLabPamphlet4.pdf)
-* [How not to read a million books](http://people.brandeis.edu/~unsworth/hownot2read.html)
+* [How not to read a million books](http://people.virginia.edu/~jmu2m/hownot2read.html)
 
 #Tool Tutorial
 
